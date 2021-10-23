@@ -1,7 +1,7 @@
 # 👋🏽 Hey there!
 
 <!-- [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=for-the-badge&logo=gmail&logoColor=white)](https://mailhide.io/e/3JzSZnHC)-->
-[![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Fabdullaharif.tech%2F)](https://arifb.myweb.cs.uwindsor.ca/portfolio/html/) 
+[![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Farifb.myweb.cs.uwindsor.ca/portfolio/html/%2F)](https://arifb.myweb.cs.uwindsor.ca/portfolio/html/) 
 [![Gmail Badge](https://img.shields.io/badge/abdularif0705-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:abdul.arif0705@gmail.com)](mailto:abdul.arif0705@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/abdularif0705-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdularif0705)
 [![Resume](https://img.shields.io/badge/Resume-gray?style=for-the-badge&logo=adobeacrobatreader&logoColor=EC1C24)](https://www.dropbox.com/s/cdbcafyysfvpl07/abdul_arif_LaTeX.pdf?dl=0)
