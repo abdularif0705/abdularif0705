@@ -75,10 +75,9 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=abdularif0705&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dark)
 
-
-[![Abdul's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdularif0705&theme=blue-green)](https://github.com/abdularif0705)
-
+<!-- [![Abdul's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdularif0705&theme=blue-green)](https://github.com/abdularif0705) -->
 <h2>Current Bangers</h2>
+
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=swaggyabdul&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=swaggyabdul&redirect=true)
  
 ![Visitor Count](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=abdularif0705.abdularif0705&color=00cf00&style=for-the-badge) 
