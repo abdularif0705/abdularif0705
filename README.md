@@ -41,7 +41,7 @@
 <p>I am a fourth-year student taking Business Administration and Computer Science (Double Major) at the University of Windsor. I am an avid learner and am always looking for opputunities to seize where I can grow my skills 💪🏽.
 </p>
 
-<h2>CS Interests</h2>
+<h2>Interests</h2>
 <details><summary>Some of my hobbies</summary>
 <ul> 
     <li>Video Games 🎮
