@@ -67,7 +67,7 @@
         <ul>
         </ul>
     </details></li>  -->
-  <li>Fighting 🥊</li>
+  <li>MMA 🥊</li>
   <li>Psychology 🧠</li>
   </details>
 
