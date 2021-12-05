@@ -72,8 +72,7 @@
   </details>
 
 
-## Stats 
-
+## Stats
 ![](https://github-readme-stats.vercel.app/api?username=abdularif0705&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dark)
 
 <!-- [![Abdul's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdularif0705&theme=blue-green)](https://github.com/abdularif0705) -->
