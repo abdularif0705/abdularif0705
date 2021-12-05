@@ -53,7 +53,7 @@
  -->
 ## About Me
 
-<p>I am a fourth-year student taking Business Administration and Computer Science (Double Major) at the University of Windsor. I am an avid learner and am always looking for opputunities to seize where I can grow my skills 💪🏽.
+<p>I am a fourth-year student pursuing a double major in Business Administration and Computer Science with a specialization in Supply Chain and Business Analytics at the University of Windsor. I'm fortunate enough to have previously worked as a Software Engineer Intern for OpenSource Technologies, where I designed database structure using MySQL, so my team could store sensitive medical data to be analyzed with machine learning. I started learning python to integrate information into the database. At the moment, I'm working as a Teaching Assistant for the Computer Networks course, where I teach students how to apply Computer Networking Concepts in Java and Python. Furthermore, I've learned my technical skills through my various side projects, and experiences as an intern, as a Code Sensei at Code Ninja's, and my current TA position. This is reflected by the fact that, I won 1st place at BorderHacks 2021 for the Traffic Data Challenge. I am an avid learner and am always looking for opputunities to seize where I can grow my skills 💪🏽.
 </p>
 
 <h2>Interests</h2>
