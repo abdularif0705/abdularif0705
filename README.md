@@ -73,15 +73,10 @@
 
 
 ## Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=abdularif0705&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=dark)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=abdularif0705&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=calm)
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdularif0705&layout=compact&theme=dark)](https://github.com/abdularif0705/)
-
-<!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=abdularif0705&count_private=true&show_icons=true&include_all_commits=true&theme=merko)](https://github.com/abdularif0705/) -->
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdularif0705&layout=compact&theme=merko)](https://github.com/abdularif0705/)
- -->
-<!-- [![Abdul's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdularif0705&theme=blue-green)](https://github.com/abdularif0705) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdularif0705&layout=compact&theme=calm)](https://github.com/abdularif0705/)
+<!-- Check out all the themes you guys can use on ur profile with this link -> https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
  
 <h2>Current Bangers</h2>
 
