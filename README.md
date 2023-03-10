@@ -96,4 +96,4 @@ When I interned as a Software Developer at OceanSource Technologies, I designed 
  
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=swaggyabdul&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=swaggyabdul&redirect=true)
  
-![Visitor Count](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=abdularif0705.abdularif0705&color=00cf00&style=for-the-badge) 
+<!-- ![Visitor Count](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=abdularif0705.abdularif0705&color=00cf00&style=for-the-badge)  -->
