@@ -4,7 +4,7 @@
 [![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Fabdularif.com/%2F)](https://abdularif.com/) 
 [![Gmail Badge](https://img.shields.io/badge/abdularif0705-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:abdul.arif0705@gmail.com)](mailto:abdul.arif0705@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/abdularif0705-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdularif0705)
-[![Resume]([https://img.shields.io/badge/Resume-gray?style=for-the-badge&logo=adobeacrobatreader&logoColor=EC1C24)](https://www.dropbox.com/s/zp43ha35pi82igq/Abdul_Arif_Modern_Deedy.pdf?dl=0](https://www.dropbox.com/s/5pg961q303m09wa/Abdul_Arif_Resume.pdf?dl=0))
+[![Resume](https://img.shields.io/badge/Resume-gray?style=for-the-badge&logo=adobeacrobatreader&logoColor=EC1C24)](https://www.dropbox.com/s/5pg961q303m09wa/Abdul_Arif_Resume.pdf?dl=0)
 
 ### Tools and Tech
 
