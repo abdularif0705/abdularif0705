@@ -59,7 +59,7 @@
 ## About Me
 
 <p>
-I graduated from the University of Windsor, where I obtained a double major in Business Administration and Computer Science, specializing in Supply Chain and Business Analytics. Throughout my academic journey, I had the privilege of serving as a Research Assistant, Software Engineer Intern (twice), and Teaching Assistant (twice).
+I graduated from the University of Windsor, where I obtained a double major in Business Administration and Computer Science, specializing in Supply Chain and Business Analytics. Throughout my academic journey, I had the privilege of being a Software Developer, Software Engineer Intern (twice), and Teaching Assistant (twice).
 
 Currently, as a Software Developer at the University of Windsor, I have engineered a sophisticated MATLAB machine vision algorithm for vehicle rust detection, crucial for Krown's rust protection product validation. This project involved complex image processing techniques such as RGB to HSI color conversion and pixel thresholding for accurate corrosion analysis. To create the iOS app, I migrated legacy MATLAB code to C, integrated it into Swift, and optimized the code to leverage the advanced camera capabilities of the iPhone 14 Pro by utilizing dynamic libraries. Additionally, I created a Python PyQt GUI app to ensure cross-platform functionality on both Mac and Windows devices.
 
