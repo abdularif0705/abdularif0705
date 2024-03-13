@@ -6,33 +6,55 @@
 [![LinkedIn](https://img.shields.io/badge/abdularif0705-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdularif0705)
 [![Resume](https://img.shields.io/badge/Resume-gray?style=for-the-badge&logo=adobeacrobatreader&logoColor=EC1C24)](https://www.dropbox.com/scl/fi/887xmwe1l0ri9ragsz5l7/Abdul_Arif_Resume.pdf?rlkey=m1u5o12v4890hhkhzeozc26xs&dl=0)
 
-## Tools and Tech
+## 🛠 Tools and Technologies
 
-### Programming languages
+I'm passionate about building solutions using a wide range of tools and technologies. From front-end to back-end, databases to cloud services, here’s a snapshot of what I work with:
+
+### 💻 Programming Languages, Frameworks & Libraries
+
+I believe in using the right tool for the job, which is why I've learned a variety of programming languages and technologies. Here's what I'm proficient in:
+
+**Core Programming Languages**:
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
-![Latex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
-![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+<!-- ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) -->
+<!-- ![Latex](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white) -->
+<!-- ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) -->
+<!-- ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)  -->
 
-### Database languages
+
+**App & Web Development**: 
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) <!-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) -->
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Frameworks & Libraries**: 
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![NextJS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MaterialUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+<!-- ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) --> 
+<!-- ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) -->
+<!-- ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) -->
+
+
+### 💾 Databases
+Strong data management is crucial for any project. I've worked with relational databases and understand the importance of scalable and efficient data storage solutions:
+
 ![MySql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostGres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
@@ -43,15 +65,15 @@
 -->
 
 
-### Tools
+### 🛠 Tools
+The right development tools can make a significant difference in productivity and project success. Here are some of the tools that I've used:
+
 <!-- ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)-->
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white) <!-- ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) -->
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
-<!-- ![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MaterialUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white) -->
 
 
 <!-- ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -59,21 +81,25 @@
 ![Neo4j](https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white)
 ![Elastic Search](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white) -->
 
-### Cloud
+### ☁️ Cloud
+Leveraging cloud technologies for scalability, reliability, and performance. My experience includes:
+
 ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) <!-- ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) -->
 ![Azure](https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 <!--![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white)-->
 
-
-![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
+<!-- ### Blockchain Tech -->
+<!-- ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white) -->
 
 ## About Me
 
 <p>
-I graduated from the University of Windsor, where I obtained a double major in Business Administration and Computer Science, specializing in Supply Chain and Business Analytics. Throughout my academic journey, I had the privilege of being a Software Developer, Software Engineer Intern (twice), and Teaching Assistant (twice).
+I graduated from the University of Windsor, where I obtained a double major in Business Administration and Computer Science, specializing in Supply Chain and Business Analytics. Throughout my academic journey, I had the privilege of being a Research Software Developer, Software Engineer Intern (twice), and Teaching Assistant (twice).
 
-Currently, as a Software Developer at the University of Windsor, I have engineered a sophisticated MATLAB machine vision algorithm for vehicle rust detection, crucial for Krown's rust protection product validation. This project involved complex image processing techniques such as RGB to HSI color conversion and pixel thresholding for accurate corrosion analysis. To create the iOS app, I migrated legacy MATLAB code to C, integrated it into Swift, and optimized the code to leverage the advanced camera capabilities of the iPhone 15 Pro by utilizing dynamic libraries. Additionally, I created a Python PyQt GUI app to ensure cross-platform functionality on both Mac and Windows devices.
+Currently, as a Reseach Software Developer at the University of Windsor, I have engineered a sophisticated MATLAB machine vision algorithm for vehicle rust detection, crucial for Krown's rust protection product validation. This project involved complex image processing techniques such as RGB to HSI color conversion and pixel thresholding for accurate corrosion analysis. To create the iOS app, I migrated legacy MATLAB code to C, integrated it into Swift, and optimized the code to leverage the advanced camera capabilities of the iPhone 15 Pro by utilizing dynamic libraries. Additionally, I created a Python PyQt GUI app to ensure cross-platform functionality on both Mac and Windows devices.
+
+I'm also a Full Stack Developer at Haadi Solutions Inc., a dynamic startup where I led the development of a comprehensive React application for a health clinic in the United States. This project was an immense challenge that required extensive dedication, leading to many late nights to ensure timely delivery. I designed and implemented a comprehensive health intake form, enhancing the clinic's operational efficiency. To secure the application, I leveraged NodeMailer for multi-factor authentication and utilized Azure for robust database management. Furthermore, I integrated Twilio to facilitate seamless SMS and voice communications, improving patient engagement and streamlining appointment notifications. 
 
 During my Software Engineer Internship at TD, I rebuilt a Java automation engine used by over 50 data engineers, adhering to enterprise standards. I implemented the four pillars of OOP, integrated Spring and Swagger to interact with the Delphix Masking API, and applied the Factory design pattern. I significantly improved test coverage by developing unit tests using Mockito/JUnit and utilizing Spring for dependency injection from 70% to 90%. I onboarded new Software Engineers, explaining the Java code for the Delphix API automation masking engine. Additionally, I handled Git merge conflicts reviewed pull requests using Bitbucket, and created a Java method to bypass SSL verification for secure API calls over HTTPS.
 
@@ -108,7 +134,7 @@ Driven by my passion for leveraging technology to address real-world challenges,
  
 <h2>Current Bangers</h2>
 
-<!-- ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white) -->
+![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
  
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=swaggyabdul&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=swaggyabdul&redirect=true)
  
