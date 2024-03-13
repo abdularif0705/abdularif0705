@@ -1,7 +1,7 @@
 # 👋🏽 Hey there!
 
 <!-- [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=for-the-badge&logo=gmail&logoColor=white)](https://mailhide.io/e/3JzSZnHC)-->
-[![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Fabdularif.com/%2F)](https://abdularif.com/) 
+[![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Fabdularif.tech/%2F)](https://abdularif.tech/) 
 [![Gmail Badge](https://img.shields.io/badge/abdularif0705-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:abdul.arif0705@gmail.com)](mailto:abdul.arif0705@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/abdularif0705-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdularif0705)
 [![Resume](https://img.shields.io/badge/Resume-gray?style=for-the-badge&logo=adobeacrobatreader&logoColor=EC1C24)](https://www.dropbox.com/scl/fi/887xmwe1l0ri9ragsz5l7/Abdul_Arif_Resume.pdf?rlkey=m1u5o12v4890hhkhzeozc26xs&dl=0)
@@ -89,14 +89,14 @@ Leveraging cloud technologies for scalability, reliability, and performance. My 
 <!-- ### Blockchain Tech -->
 <!-- ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white) -->
 
-## About Me
+## 📝 About Me
 
 <p>
 I graduated from the University of Windsor, where I obtained a double major in Business Administration and Computer Science, specializing in Supply Chain and Business Analytics. Throughout my academic journey, I had the privilege of being a Research Software Developer, Software Engineer Intern (twice), and Teaching Assistant (twice).
 
-Currently, as a Reseach Software Developer at the University of Windsor, I have engineered a sophisticated MATLAB machine vision algorithm for vehicle rust detection, crucial for Krown's rust protection product validation. This project involved complex image processing techniques such as RGB to HSI color conversion and pixel thresholding for accurate corrosion analysis. To create the iOS app, I migrated legacy MATLAB code to C, integrated it into Swift, and optimized the code to leverage the advanced camera capabilities of the iPhone 15 Pro by utilizing dynamic libraries. Additionally, I created a Python PyQt GUI app to ensure cross-platform functionality on both Mac and Windows devices.
+Currently, as a Research Software Developer at the University of Windsor, I have engineered a sophisticated MATLAB machine vision algorithm for vehicle rust detection, crucial for Krown's rust protection product validation. This project involved complex image processing techniques such as RGB to HSI color conversion and pixel thresholding for accurate corrosion analysis. To create the iOS app, I migrated legacy MATLAB code to C, integrated it into Swift, and optimized the code to leverage the advanced camera capabilities of the iPhone 15 Pro by utilizing dynamic libraries. Additionally, I created a Python PyQt GUI app to ensure cross-platform functionality on both Mac and Windows devices.
 
-I'm also a Full Stack Developer at Haadi Solutions Inc., a dynamic startup where I led the development of a comprehensive React application for a health clinic in the United States. This project was an immense challenge that required extensive dedication, leading to many late nights to ensure timely delivery. I designed and implemented a comprehensive health intake form, enhancing the clinic's operational efficiency. To secure the application, I leveraged NodeMailer for multi-factor authentication and utilized Azure for robust database management. Furthermore, I integrated Twilio to facilitate seamless SMS and voice communications, improving patient engagement and streamlining appointment notifications. 
+I'm also a Full Stack Developer at Haadi Solutions Inc., a dynamic startup where I led the development of a comprehensive React application for a health clinic in the United States. This project was an immense challenge that required extensive dedication, leading to many late nights to ensure timely delivery. I designed and implemented a comprehensive health intake form, enhancing the clinic's operational efficiency. I leveraged NodeMailer for multi-factor authentication to secure the application and utilized Azure for robust database management. Furthermore, I integrated Twilio to facilitate seamless SMS and voice communications, improving patient engagement and streamlining appointment notifications. 
 
 During my Software Engineer Internship at TD, I rebuilt a Java automation engine used by over 50 data engineers, adhering to enterprise standards. I implemented the four pillars of OOP, integrated Spring and Swagger to interact with the Delphix Masking API, and applied the Factory design pattern. I significantly improved test coverage by developing unit tests using Mockito/JUnit and utilizing Spring for dependency injection from 70% to 90%. I onboarded new Software Engineers, explaining the Java code for the Delphix API automation masking engine. Additionally, I handled Git merge conflicts reviewed pull requests using Bitbucket, and created a Java method to bypass SSL verification for secure API calls over HTTPS.
 
@@ -107,7 +107,7 @@ As a Teaching Assistant (TA) for the Data Structures and Algorithms course, I gu
 Driven by my passion for leveraging technology to address real-world challenges, I eagerly seek opportunities to grow as a developer. With strong communication, teamwork, and problem-solving skills, I excel in collaborative environments and consistently deliver high-quality results.
 </p>
 
-<h2>Interests</h2>
+<h2>🕹️ Interests</h2>
 <details><summary>Some of my hobbies</summary>
 <ul> 
     <li>Video Games 🎮
@@ -120,16 +120,17 @@ Driven by my passion for leveraging technology to address real-world challenges,
     </details></li>  -->
   <li>MMA 🥊</li>
   <li>Psychology 🧠</li>
+  <li>Reading 📖</li>
   </details>
 
 
-## Stats
+## 🏆 Stats
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=abdularif0705&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=calm)
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdularif0705&layout=compact&theme=calm)](https://github.com/abdularif0705/)
 <!-- Check out all the themes you guys can use on ur profile with this link -> https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
  
-<h2>Current Bangers</h2>
+<h2>🎧 Current Bangers</h2>
 
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
  
