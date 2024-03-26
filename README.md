@@ -125,7 +125,7 @@ Driven by my passion for leveraging technology to address real-world challenges,
 
 
 ## 🏆 Stats
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=abdularif0705&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=calm)
+<!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=abdularif0705&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=calm) -->
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdularif0705&layout=compact&theme=calm)](https://github.com/abdularif0705/)
 <!-- Check out all the themes you guys can use on ur profile with this link -> https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md -->
