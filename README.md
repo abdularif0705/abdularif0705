@@ -110,7 +110,7 @@ Driven by my passion for leveraging technology to address real-world challenges,
 <h2>🕹️ Interests</h2>
 <details><summary>Some of my hobbies</summary>
 <ul> 
-    <li>Video Games 🎮
+    <li>🎮 Video Games
 <!--         <ul>
         </ul> -->
     </li> 
@@ -118,9 +118,9 @@ Driven by my passion for leveraging technology to address real-world challenges,
         <ul>
         </ul>
     </details></li>  -->
-  <li>MMA 🥊</li>
-  <li>Psychology 🧠</li>
-  <li>Reading 📖</li>
+  <li>🥊 MMA</li>
+  <li>🧠 Psychology</li>
+  <li>📖 Reading</li>
   </details>
 
 
