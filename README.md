@@ -8,11 +8,11 @@
 
 ## 🛠 Tools and Technologies
 
-I'm passionate about building solutions using a wide range of tools and technologies. From front-end to back-end, databases to cloud services, here’s a snapshot of what I work with:
+I'm passionate about building solutions using various tools and technologies. From front-end to back-end, databases to cloud services, here’s a snapshot of what I work with:
 
 ### 💻 Programming Languages, Frameworks & Libraries
 
-I believe in using the right tool for the job, which is why I've learned a variety of programming languages and technologies. Here's what I'm proficient in:
+I believe in using the right tools for the job, so I've worked hard to learn many programming languages and technologies. Here's what I'm proficient in:
 
 **Core Programming Languages**:
 
