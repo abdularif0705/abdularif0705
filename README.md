@@ -89,6 +89,14 @@ Leveraging cloud technologies for scalability, reliability, and performance. My 
 <!-- ### Blockchain Tech -->
 <!-- ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white) -->
 
+
+
+## 🏆 Accolades
+[Best UI/UX Award at GrizzHacks](https://devpost.com/software/wavewallet) 
+
+[1st Place for Windsor Traffic Data Challenge at BorderHacks](https://devpost.com/software/cyber-traffic-data)
+
+
 ## 📝 About Me
 
 <p>
@@ -102,7 +110,7 @@ During my Software Engineer Internship at TD, I rebuilt a Java automation engine
 
 At OceanSource Technologies, as a Software Developer intern, I managed the transfer of medical data to a secure SQL database on AWS. This task included enhancing performance and security features, such as data encryption and access control. Additionally, I was responsible for monitoring and adjusting AWS RDS instances, ensuring data integrity and efficient database performance. My duties also involved setting up regular data backups and performing routine database maintenance. 
 
-As a Teaching Assistant (TA) for the Data Structures and Algorithms course, I guided students in implementing efficient algorithms using Java. I have strengthened my technical skills through side projects, internships, and roles as a Code Sensei at Code Ninja, TA for Computer Networks. In BorderHacks2021, my team secured first place out of 50+ competing teams for the Traffic Data Challenge.
+As a Teaching Assistant (TA) for the Data Structures and Algorithms course, I guided students in implementing efficient algorithms using Java. I have strengthened my technical skills through side projects, internships, and roles as a Code Sensei at Code Ninja, TA for Computer Networks. At GrizzHacks my team won Best UI/UX out of 30+ teams; at BorderHacks, my team secured first place out of 50+ competing teams for the Traffic Data Challenge.
 
 Driven by my passion for leveraging technology to address real-world challenges, I eagerly seek opportunities to grow as a developer. With strong communication, teamwork, and problem-solving skills, I excel in collaborative environments and consistently deliver high-quality results.
 </p>
@@ -124,7 +132,7 @@ Driven by my passion for leveraging technology to address real-world challenges,
   </details>
 
 
-## 🏆 Stats
+## 📈 Stats
 <!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=abdularif0705&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=calm) -->
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdularif0705&layout=compact&theme=calm)](https://github.com/abdularif0705/)
