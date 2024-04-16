@@ -68,7 +68,7 @@ Strong data management is crucial for any project. I've worked with relational d
 ![Dialogflow](https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white)
 -->
 
-### 🛠 Tools & Platforms
+### 🧰 Tools & Platforms
 The right development tools and platforms can make a significant difference in productivity and project success. Here are some of the tools and platforms I've worked with:
 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
