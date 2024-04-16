@@ -8,11 +8,11 @@
 
 ## 🛠 Tools and Technologies
 
-I'm passionate about building solutions using various tools and technologies. From front-end to back-end, databases to cloud services, here’s a snapshot of what I work with:
+I'm passionate about building solutions using a wide range of tools and technologies. From front-end to back-end, databases to cloud services, here’s a snapshot of what I work with:
 
 ### 💻 Programming Languages, Frameworks & Libraries
 
-I believe in using the right tools for the job, so I've worked hard to learn many programming languages and technologies. Here's what I'm proficient in:
+I believe in using the right tool for the job, which is why I've learned a variety of programming languages and technologies. Here's what I'm proficient in:
 
 **Core Programming Languages**:
 
@@ -41,12 +41,12 @@ I believe in using the right tools for the job, so I've worked hard to learn man
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![NextJS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![MaterialUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+<!-- ![NextJS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) -->
+<!-- ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) -->
+<!-- ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) -->
+<!-- ![MaterialUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white) -->
 <!-- ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) --> 
 <!-- ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) -->
 <!-- ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) -->
@@ -64,14 +64,14 @@ Strong data management is crucial for any project. I've worked with relational d
 ![Dialogflow](https://img.shields.io/badge/dialogflow-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white)
 -->
 
-### 🛠 Tools & Platforms
+<!-- ### 🛠 Tools & Platforms
 The right development tools and platforms can make a significant difference in productivity and project success. Here are some of the tools and platforms I've worked with:
 
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Elastic Search](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white) 
+![Elastic Search](https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)  -->
+<!-- ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) -->
 <!-- ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)-->
 <!-- ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
@@ -99,7 +99,10 @@ Leveraging cloud technologies for scalability, reliability, and performance. My 
 
 ## 📝 About Me
 
-<p>
+<details> 
+    <summary>Click to learn more about my journey!</summary>
+    <br>
+    
 I graduated from the University of Windsor, with a double major in Computer Science and Business Administration, specializing in Supply Chain and Business Analytics. Throughout my academic journey, I had the privilege of being a Research Software Engineer, Software Engineer Intern (twice), and Teaching Assistant (twice).
 
 Currently, as a Research Software Engineer at the University of Windsor, I have engineered a pivotal MATLAB machine vision algorithm for Krown, crucial for detecting and assessing vehicle rust corrosion. Utilizing RGB to HSI colour conversion and pixel thresholding, this tool opened new avenues for evaluating rust protection products' efficacy, a capability previously unattainable. My contributions also supported a university research thesis, aiding Krown in validating its products. I converted this critical MATLAB algorithm into C and developed an iOS app with Swift, enabling rust assessments directly from iPhones and enhancing field evaluation efficiency. I also developed a Python MATLAB-based application for advanced corrosion detection, streamlining the assessment process for vehicle rust analysis. The application features an intuitive GUI for image processing and key metrics calculation, including rust percentage and area.
@@ -113,7 +116,8 @@ At OceanSource Technologies, as a Software Developer intern, I managed the trans
 As a Teaching Assistant (TA) for the Data Structures and Algorithms course, I guided students in implementing efficient algorithms using Java. I have strengthened my technical skills through side projects, internships, and roles as a Code Sensei at Code Ninja, TA for Computer Networks. At GrizzHacks my team won Best UI/UX out of 30+ teams; at BorderHacks, my team secured first place out of 50+ competing teams for the Traffic Data Challenge.
 
 Driven by my passion for leveraging technology to address real-world challenges, I eagerly seek opportunities to grow as a developer. With strong communication, teamwork, and problem-solving skills, I excel in collaborative environments and consistently deliver high-quality results.
-</p>
+
+</details>
 
 <h2>🕹️ Interests</h2>
 <details><summary>Some of my hobbies</summary>
