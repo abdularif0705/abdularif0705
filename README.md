@@ -133,7 +133,13 @@ Driven by my passion for leveraging technology to address real-world challenges,
   <li>🥊 MMA</li>
   <li>🧠 Psychology</li>
   <li>📖 Reading</li>
-  </details>
+  <li>🏕️ Camping</li>
+  <li>🥾 Hiking</li>
+  <li>🏊🏼‍♂️ Swimming</li>
+  <li>✈️ Traveling</li>
+  <li>🚴🏼‍♂️ Biking</li>
+  <li>🎣 Fishing</li>
+</details>
 
 
 ## 📈 Stats
