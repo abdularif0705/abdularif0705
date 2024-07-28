@@ -154,6 +154,6 @@ Driven by my passion for leveraging technology to address real-world challenges,
 
 ![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
  
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=swaggyabdul&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=swaggyabdul&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=swaggyabdul&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=swaggyabdul&redirect=true)
  
 <!-- ![Visitor Count](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=abdularif0705.abdularif0705&color=00cf00&style=for-the-badge)  -->
