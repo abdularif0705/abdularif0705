@@ -94,7 +94,7 @@ Leveraging cloud technologies for scalability, reliability, and performance. My 
 
 
 ## 🏆 Accolades
-[Won Best UI/UX at GrizzHacks for our radiofrequency secured cryptocurrency platform](https://devpost.com/software/wavewallet) 
+[Won Best UI/UX at GrizzHacks for our radiofrequency secured local cryptocurrency wallet trading platform](https://devpost.com/software/wavewallet) 
 
 [Secured 1st Place for Windsor Traffic Data Challenge at BorderHacks](https://devpost.com/software/cyber-traffic-data)
 
