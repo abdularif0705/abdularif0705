@@ -1,5 +1,7 @@
 # 👋🏽 Hi, I'm Abdul!
 
+[Check out my portfolio website](https://abdularif.tech) 
+
 I'm a passionate software engineer with experience in AI engineering, machine learning, full-stack development, and cloud technologies. I love building solutions that make a real impact.
 
 <!-- [![E-Mail](https://img.shields.io/badge/email-reveal-2a8?style=for-the-badge&logo=gmail&logoColor=white)](https://mailhide.io/e/3JzSZnHC)-->
