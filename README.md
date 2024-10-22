@@ -46,10 +46,10 @@ I believe in using the right tool for the job, which is why I've learned a varie
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![BootStrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![MaterialUI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+<!-- ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) -->
 <!-- ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) --> 
 <!-- ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) -->
 <!-- ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) -->
@@ -106,10 +106,12 @@ Leveraging cloud technologies for scalability, reliability, and performance. My 
 <details> 
     <summary>Click to learn more about my journey!</summary>
     <br>
-    
-I graduated from the University of Windsor, with a double major in Computer Science and Business Administration, specializing in Supply Chain and Business Analytics. Throughout my academic journey, I had the privilege of being a Research Software Engineer, Software Engineer Intern (twice), and Teaching Assistant (twice).
 
-Currently, as a Research Software Engineer at the University of Windsor, I have engineered a pivotal MATLAB machine vision algorithm for Krown, crucial for detecting and assessing vehicle rust corrosion. Utilizing RGB to HSI colour conversion and pixel thresholding, this tool opened new avenues for evaluating rust protection products' efficacy, a capability previously unattainable. My contributions also supported a university research thesis, aiding Krown in validating its products. I deconstructed this critical MATLAB algorithm into C++ and developed an iOS app with Swift, enabling rust assessments directly from iPhones and enhancing field evaluation efficiency. I also developed a Python application for advanced corrosion detection, streamlining the assessment process for vehicle rust analysis. The application features an intuitive GUI for image processing and key metrics calculation, including rust percentage and area.
+Currently, I work as a Software Engineer at Dayforce (Ceridian) incorporating AI into their RichTextEditor used by 5000+ companies.
+    
+I graduated from the University of Windsor, with a double major in Computer Science and Business Administration, specializing in Supply Chain and Business Analytics. Throughout my academic journey, I was a Research Software Engineer, Software Engineer Intern (twice), and Teaching Assistant (twice).
+
+Previously as a Research Software Engineer at the University of Windsor, I have engineered a pivotal MATLAB machine vision algorithm for Krown, crucial for detecting and assessing vehicle rust corrosion. Utilizing RGB to HSI colour conversion and pixel thresholding, this tool opened new avenues for evaluating rust protection products' efficacy, a capability previously unattainable. My contributions also supported a university research thesis, aiding Krown in validating its products. I deconstructed this critical MATLAB algorithm into C++ and developed an iOS app with Swift, enabling rust assessments directly from iPhones and enhancing field evaluation efficiency. I also developed a Python application for advanced corrosion detection, streamlining the assessment process for vehicle rust analysis. The application features an intuitive GUI for image processing and key metrics calculation, including rust percentage and area.
 
 I'm also a Full Stack Developer at Haadi Solutions Inc., a dynamic startup where I led the development of a React application for a health clinic in the United States. This resulted in an increase in online appointment bookings by 30%. I enhanced the UI/UX for improved navigation and responsiveness, elevating user engagement. I leveraged NodeMailer for multi-factor authentication to secure the application and utilized Azure for robust database management. Furthermore, I integrated Twilio to facilitate seamless SMS and voice communications, improving patient engagement and streamlining appointment notifications. 
 
