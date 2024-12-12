@@ -96,7 +96,7 @@ Leveraging cloud technologies for scalability, reliability, and performance. My 
 
 
 ## 🏆 Accolades
-[3rd place prize out of 3000 teams at Headstarter for best AI project](https://github.com/Ahthe/Amplifier-AI) 
+[3rd place prize out of 3000+ teams at Headstarter for the best project](https://github.com/Ahthe/Amplifier-AI) 
 
 [Won Best UI/UX at GrizzHacks for our radiofrequency secured local cryptocurrency wallet trading platform](https://devpost.com/software/wavewallet) 
 
