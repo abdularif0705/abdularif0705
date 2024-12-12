@@ -96,6 +96,8 @@ Leveraging cloud technologies for scalability, reliability, and performance. My 
 
 
 ## 🏆 Accolades
+[3rd place prize out of 3000 teams at Headstarter for best AI project](https://github.com/Ahthe/Amplifier-AI) 
+
 [Won Best UI/UX at GrizzHacks for our radiofrequency secured local cryptocurrency wallet trading platform](https://devpost.com/software/wavewallet) 
 
 [Secured 1st Place for Windsor Traffic Data Challenge at BorderHacks](https://devpost.com/software/cyber-traffic-data)
@@ -107,7 +109,7 @@ Leveraging cloud technologies for scalability, reliability, and performance. My 
     <summary>Click to learn more about my journey!</summary>
     <br>
 
-Currently, I work as a Software Engineer at Dayforce (Ceridian) incorporating AI into their RichTextEditor used by 5000+ companies.
+Currently, I work as a Software Engineer at Dayforce (Ceridian), I am part of the Web Platform team creating React components for the app and switching our code base from legacy Dojo code to React for optimal performance. And enhance our RichTextEditor performance for 5000+ global B2B customers. Currently focused on optimizing JsonForms for Dayforce's AMF Pages project initiative, scheduled for launch in 2025. I am also working on implementing AI into the RichTextEditor alongside the AI team.
     
 I graduated from the University of Windsor, with a double major in Computer Science and Business Administration, specializing in Supply Chain and Business Analytics. Throughout my academic journey, I was a Research Software Engineer, Software Engineer Intern (twice), and Teaching Assistant (twice).
 
