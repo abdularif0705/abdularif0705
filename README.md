@@ -1,6 +1,6 @@
 # 👋🏽 Hi, I'm Abdul!
 
-[Make sure to check out my portfolio website built using React](https://abdularif.tech) 
+[Make sure to check out my portfolio website built using React](https://abdularif.me) 
 
 I'm a passionate software engineer with experience in AI engineering, machine learning, full-stack development, and cloud technologies. I love building solutions that make a real impact.
 
