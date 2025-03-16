@@ -96,6 +96,8 @@ Leveraging cloud technologies for scalability, reliability, and performance. My 
 
 
 ## 🏆 Accolades
+[Obtained 7000+ users for our Stock Trading AI app in just 1 month](https://github.com/Ahthe/TradeWise)
+
 [3rd place prize out of 3000+ teams at Headstarter for the best project](https://github.com/Ahthe/Amplifier-AI) 
 
 [Won Best UI/UX at GrizzHacks for our radiofrequency secured local cryptocurrency wallet trading platform](https://devpost.com/software/wavewallet) 
