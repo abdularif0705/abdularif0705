@@ -111,7 +111,7 @@ Leveraging cloud technologies for scalability, reliability, and performance. My 
     <summary>Click to learn more about my journey!</summary>
     <br>
 
-Currently, I work as a Software Engineer at Dayforce (Ceridian), I am part of the Web Platform team creating React components for the app and switching our code base from legacy Dojo code to React for optimal performance. And enhance our RichTextEditor performance for 5000+ global B2B customers. Currently focused on optimizing JsonForms for Dayforce's AMF Pages project initiative, scheduled for launch in 2025. I am also working on implementing AI into the RichTextEditor alongside the AI team.
+Currently, I work as a Software Engineer at Dayforce (Ceridian), I am part of the Web Platform team creating React components for the app and switching our code base from legacy Dojo code to React for optimal performance. And enhance our RichTextEditor performance for 5000+ global B2B customers. I also developed a custom AI solution for the RTE leveraging our in-house LLM, replacing the TinyMCE AI plugin by replicating its UI elements (dialog box, buttons, etc.) and functionalities using React, saving Dayforce approximately $52k annually. Currently I'm focused on optimizing JsonForms for Dayforce's AMF Pages project initiative, scheduled for launch in 2025.
     
 I graduated from the University of Windsor, with a double major in Computer Science and Business Administration, specializing in Supply Chain and Business Analytics. Throughout my academic journey, I was a Research Software Engineer, Software Engineer Intern (twice), and Teaching Assistant (twice).
 
