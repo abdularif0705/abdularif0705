@@ -9,8 +9,8 @@ I'm a passionate software engineer @ Dayforce with experience in AI engineering,
 
 [![Website](https://img.shields.io/website?down_color=lightgrey&down_message=offline&style=for-the-badge&up_color=green&up_message=online&url=https%3A%2F%2Fabdularif.me/%2F)](https://abdularif.me/)
 [![Gmail Badge](https://img.shields.io/badge/abdularif0705-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:abdul.arif0705@gmail.com)](mailto:abdul.arif0705@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdularif0705)
-[![Resume](https://img.shields.io/badge/Resume-gray?style=for-the-badge&logo=adobeacrobatreader&logoColor=EC1C24)](https://www.dropbox.com/scl/fi/887xmwe1l0ri9ragsz5l7/Abdul_Arif_Resume.pdf?rlkey=m1u5o12v4890hhkhzeozc26xs&dl=0)
+[![LinkedIn](https://img.shields.io/badge/Linkedin-0077B5?style=for-the-badge&logo=invision&logoColor=white)](https://www.linkedin.com/in/abdularif0705)
+[![Resume](https://img.shields.io/badge/Resume-gray?style=for-the-badge&logo=docusaurus&logoColor=EC1C24)](https://www.dropbox.com/scl/fi/887xmwe1l0ri9ragsz5l7/Abdul_Arif_Resume.pdf?rlkey=m1u5o12v4890hhkhzeozc26xs&dl=0)
 
 ## 🛠 Tech Stack
 
@@ -38,6 +38,7 @@ I believe in using the right tool for the job, which is why I've learned a varie
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![TAILWIND](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) <!-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) -->
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
